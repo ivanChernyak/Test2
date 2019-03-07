@@ -1,8 +1,8 @@
 package com.company;
 
-public class Main {
+public class SomeClass {
 
-    public static void main(String[] args) {
+    public static void someMethod(){
         System.out.println("Hello!");
         System.out.println("Test");
     }
